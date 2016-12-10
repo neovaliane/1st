@@ -10,3 +10,5 @@ python gene_reading.py $file
 cd ..
 done
 echo "done"
+
+echo "second update"
