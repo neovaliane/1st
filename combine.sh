@@ -12,3 +12,5 @@ done
 echo "done"
 
 echo "second update"
+
+echo "third update"
